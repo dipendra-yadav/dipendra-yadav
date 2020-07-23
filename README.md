@@ -7,8 +7,6 @@ I currently works as a senior consultant technology  with Price water House coop
 I focuses on building platforms based on JVM (Java) and cloud technologies. I enjoys learning new technologies. 
 I am also interested in coaching,mentoring small teams that build scalable software solutions.
 
-
-
 ![](images/java.png)
 ![](images/pivotol.png)
 ![](images/spring.png)
