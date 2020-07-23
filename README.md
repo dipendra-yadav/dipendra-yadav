@@ -9,9 +9,9 @@ I am also interested in coaching,mentoring small teams that build scalable softw
 
 
 
-![](images/github/java.png)
-![](images/github/pivotol.png)
-![](images/github/spring.png)
+![](images/java.png)
+![](images/pivotol.png)
+![](images/spring.png)
 
 
 
