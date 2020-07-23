@@ -8,3 +8,6 @@ I focuses on building platforms based on JVM (Java) and cloud technologies. I en
 I am also interested in coaching,mentoring small teams that build scalable software solutions.
 
 
+
+
+
